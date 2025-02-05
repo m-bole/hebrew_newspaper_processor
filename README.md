@@ -66,6 +66,7 @@ See examples/process_hatzfira.py for batch processing example.
 ### Project Structure
 ```
 hebrew_newspaper_processor/
+├── hebrew_tsfira.ipynb # Notebook I used for analysis 
 ├── hebrew_newspaper_processor/
 │   ├── ocr_processor.py    # PDF processing and OCR
 │   ├── text_cleaner.py     # Text cleaning and normalization
