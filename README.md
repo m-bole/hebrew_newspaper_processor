@@ -15,7 +15,7 @@ The processed Ha-Tsfira dataset is available on HuggingFace:
 [mbole/hebrew-tzfira-dataset](https://huggingface.co/datasets/mbole/hebrew-tzfira-dataset)
 
 ### Dataset Details
-- 50 newspaper issues from 1862-1931
+- 50 newspaper issues from 1862-1976
 - Each document contains:
   - Original OCR text
   - Cleaned text
